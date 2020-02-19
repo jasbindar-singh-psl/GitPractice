@@ -5,3 +5,5 @@ Dipra
 	Hulle hula re
 Raneet
 	Change 2 By Raneet
+	Fixed a bug RickB
+	Fixed another bug RickBC
